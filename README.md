@@ -85,3 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+## Resources
+
+* [Dockerize and orchestrate your fullstack MEAN app easily](https://medium.com/@turhan.oz/dockerize-and-orchestrate-your-fullstack-mean-app-easily-b6da2e44b0c9)
